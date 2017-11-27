@@ -1,7 +1,7 @@
 ### Installing
 If it’s on GitHub, you can install any of formulae with
 
-[`brew tap ` sassmann/development](Taps.md).
+[`brew tap ` sassman/development](Taps.md).
 
 ### What's In
 
